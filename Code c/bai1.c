@@ -7,3 +7,5 @@ int main (){
     printf("%d+%d=%d",a,b,sum);//nhập a và b 
     return 0;
 }
+
+// helo c
